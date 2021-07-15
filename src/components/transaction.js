@@ -1,5 +1,4 @@
 import React from 'react';
-import './transaction.css';
 
 class Transaction extends React.Component {
     state = {  }
