@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+  #custreward {
+    text-align: center;
+    background-color: #386fdf;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  
+
+
